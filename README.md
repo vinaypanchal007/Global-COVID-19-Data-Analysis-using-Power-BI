@@ -60,7 +60,7 @@ The Power BI report consists of **4 pages**, each serving a specific analytical 
 
 ---
 
-## 🎓 Project Type
+## Project Type
 **Academic Data Visualization Project**
 
 This project is intended for educational and portfolio purposes and does not represent real-world deployment or professional consultancy work.
